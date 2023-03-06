@@ -1,0 +1,15 @@
+Bug Title:
+
+Description:
+
+Steps to Reproduce:
+
+Expected Result:
+
+Actual Result:
+
+Application/Site Version:
+
+Platform/Device:
+
+Screenshots/Logs:
